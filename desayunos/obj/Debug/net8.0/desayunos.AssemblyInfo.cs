@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desayunos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da3f44ca9eff33600888116d8913fb0f03d576b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("desayunos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desayunos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
