@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desayunos", "desayunos.csproj", "{FEF6C53C-8DBC-4F95-9CFA-F8ED37A9EFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF6C53C-8DBC-4F95-9CFA-F8ED37A9EFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF6C53C-8DBC-4F95-9CFA-F8ED37A9EFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF6C53C-8DBC-4F95-9CFA-F8ED37A9EFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF6C53C-8DBC-4F95-9CFA-F8ED37A9EFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {206C76E7-CA63-47CF-9EDF-B03DAAA5A793}
+	EndGlobalSection
+EndGlobal
